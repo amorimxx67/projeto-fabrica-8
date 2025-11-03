@@ -69,8 +69,7 @@ if __name__ == '__main__':
 │  
 ├─ app.py  
 ├─ requirements.txt  
-├─ templates/  
-│   ├─ base.html  
+├─ templates/   
 │   ├─ index.html  
 │   ├─ listar_pacientes.html  
 │   ├─ detalhe_paciente.html  
@@ -79,8 +78,6 @@ if __name__ == '__main__':
 ├─ static/  
 │   ├─ css/  
 │   └─ images/  
-└─ dados/            ← (opcional) para armazenar JSON ou banco de dados SQLite  
-     └─ … ou banco de dados SQLite  
 
 
 
